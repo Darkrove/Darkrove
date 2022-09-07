@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28F76D&vCenter=true&width=460&lines=Hello+i'm+sajjad+shaikh+%F0%9F%91%8B%2C;Typically+a+CS+student+but+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93%2C;Dedicated+to+learn+new+technology+%F0%9F%A6%BE%2C+;And+contribute+in+IT+sectors+%F0%9F%92%BB+%2C)](https://git.io/typing-svg)
 <!--
 **Darkrove/Darkrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
