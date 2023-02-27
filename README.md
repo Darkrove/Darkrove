@@ -22,6 +22,18 @@ I have also worked with a variety of frameworks and libraries, including:
 - Nuxt.js 🌌
 - Tailwind ✨
 
+## Tools
+
+These are some of the tools and technologies I use on a regular basis:
+
+- Operating System: windows 🍎
+- Code Editor: Visual Studio Code 🚀
+- Version Control: Git 🌳
+- Design Tool: Figma 🎨
+- Task Manager: Notion 📝
+- Communication: Discord 💬
+- Productivity: Todoist 📅
+
 ## Projects
 
 Here are some of my recent projects:
