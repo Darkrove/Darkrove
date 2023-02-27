@@ -59,4 +59,4 @@ In my free time, I enjoy learning new technologies and working on personal proje
 
 ## Contact Me
 
-If you want to get in touch, feel free to reach out to me via [Email](mailto:samaralishaikh212@email.com) 📧, [LinkedIn](https://www.linkedin.com/in/sajjad-shaikh-18a0811ab/) 💼, or [Twitter](https://twitter.com/sajjads72619701) 🐦.
+If you want to get in touch, feel free to reach out to me via [Email](mailto:samaralishaikh212@gmail.com) 📧, [LinkedIn](https://www.linkedin.com/in/sajjad-shaikh-18a0811ab/) 💼, or [Twitter](https://twitter.com/sajjads72619701) 🐦.
