@@ -33,6 +33,7 @@ These are some of the tools and technologies I use on a regular basis:
 - Task Manager: Notion 📝
 - Communication: Discord 💬
 - Productivity: Todoist 📅
+- Bookmarking: Raindrop 💧
 
 ## Projects
 
