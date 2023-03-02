@@ -1,6 +1,6 @@
 # Hey there, I'm Sajjad Shaikh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=darkrove&style=flat-square&logo=buymeacoffee&color=9ca3af)
-[![wakatime](https://wakatime.com/badge/user/727159bd-4fcd-44a0-b199-59c2816da634.svg?&style=flat-square)](https://wakatime.com/@727159bd-4fcd-44a0-b199-59c2816da634)
+
 
 ## About Me
 
