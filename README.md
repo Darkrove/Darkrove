@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a 22-year-old 🧑‍💻 self-taught web developer and programmer, currently pursuing a 🎓 computer science degree. I started programming back when I was in 11th standard and discovered my passion for web development during COVID in 2021. I enjoy working on the web a lot, particularly on the frontend.
+👨‍💻 Self-taught web dev & programmer, currently pursuing a 🎓 CS degree. Started coding in 11th grade and discovered passion for 🌐 dev during COVID. Love working on both frontend and backend. Currently exploring the exciting world of 🕸️ web3. Let's build the future together! 💪
 
 ## Skills
 
