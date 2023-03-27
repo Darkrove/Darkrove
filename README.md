@@ -5,8 +5,6 @@
 
 ## About Me
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33787a3242773132666539697947303676362f67697068792e676966](https://user-images.githubusercontent.com/53792139/226430748-2e6d1385-b034-4931-b377-517e362a8fa0.gif)
-
 👨‍💻 Self-taught web dev & programmer, currently pursuing a 🎓 CS degree. Started coding in 11th grade and discovered passion for 🌐 dev during COVID. Love working on both frontend and backend. Currently exploring the exciting world of 🕸️ web3. Let's build the future together! 💪
 
 ## Skills
