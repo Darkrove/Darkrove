@@ -8,7 +8,6 @@
 ## Zap
 
 [![wakatime](https://wakatime.com/badge/user/727159bd-4fcd-44a0-b199-59c2816da634.svg?style=for-the-badge)](https://wakatime.com/@727159bd-4fcd-44a0-b199-59c2816da634)
-[![Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFEE-BUY-%2357bcad?logo=buymeacoffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/sajjadshaikh)
 
 ## About Me
 
