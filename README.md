@@ -46,13 +46,17 @@ These are some of the tools and technologies I use on a regular basis:
 
 Here are some of my recent projects:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=portfolio-website&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/Darkrove/portfolio-website)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=darkspace&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/darkrove/darkspace)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=secure-funding&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/darkrove/secure-funding)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=bag-bee&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/Darkrove/bag-bee)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=Instagram-clone&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/darkrove/Instagram-Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=Wolfsbane&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/darkrove/Wolfsbane)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=lavishlinen&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/Darkrove/lavishlinen)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkrove&repo=email-validator-api&show_owner=True&theme=transparent&text_color=f4f4f5&bg_color=18181b&title_color=a1a1aa&icon_color=a1a1aa)](https://github.com/Darkrove/email-validator-api)
 
 ## Stats
 
